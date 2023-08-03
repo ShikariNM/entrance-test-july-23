@@ -257,7 +257,6 @@ def print_devs_content() -> None:
     print(system_time)
     print()
 
-
 if __name__ == "__main__":
 
     url = sys.argv[1] # 'http://127.0.0.1:9998'
